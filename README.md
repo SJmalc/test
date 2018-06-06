@@ -1,4 +1,4 @@
-## Arduino libraries necessary for PottyHub:
+### Arduino libraries necessary for PottyHub:
 - AzureIoTHub
 - AzureIoTHubMQTTClient
 - AzureIoTProtocol_Http
