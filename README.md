@@ -11,6 +11,6 @@
 
 2. Use Board manager (found in Tools-->Board-->Board Manager) to install ESP8266 package.
 
-- now you can select "Adafruit Feather HUZZAH ESP8266" in the Board tab
+  - now you can select "Adafruit Feather HUZZAH ESP8266" in the Board tab
 
 3. Set 80 MHz as CPU frequency, 115200 baud upload speed, and select matching COM/serial port for cable.
